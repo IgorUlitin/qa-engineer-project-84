@@ -60,7 +60,7 @@
     Google Chrome   Версия 117.0.5938.92 (Официальная сборка), (arm64)
     macОС 13.5.2
   steps-to-reproduce: |
-    -
+    empty
   expected-result: |
     Кнопка "Предыдущая" на начальной странице товаров не отображается
   actual-result: |
@@ -263,7 +263,7 @@
     Google Chrome   Версия 117.0.5938.92 (Официальная сборка), (arm64)
     macОС 13.5.2
   steps-to-reproduce: |
-    -
+    empty
   expected-result: |
     В фильтре товара по цене placeholder "До" отображается с значением цены самого дорогого товара на сайте
   actual-result: |
