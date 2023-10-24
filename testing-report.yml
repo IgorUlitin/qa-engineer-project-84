@@ -1,52 +1,52 @@
 ---
-- summary: 
+- summary: |
     Проверка регистрации пользователя
   status: fail
 
-- summary: 
+- summary: |
     Проверка входа пользователя с существующими логином и паролем
   status: fail
 
-- summary: 
+- summary: |
     Открытие карточки товара
   status: pass
 
-- summary: 
+- summary: |
     Проверка добавления товара в корзину
   status: pass
 
-- summary: 
+- summary: |
     Проверка отображения иконки количества товара в корзине
   status: pass
 
-- summary: 
+- summary: |
     Проверка оформления заказа
   status: pass
 
-- summary: 
+- summary: |
     Проверка оформления заказа во вкладке Network ChromeDevTools
   status: fail
 
-- summary: 
+- summary: |
     Проверка изменения языка сайта
   status: fail
 
-- summary: 
+- summary: |
     Проверка фильтрации товаров по чекбоксам наименований
   status: pass
 
-- summary: 
+- summary: |
     Проверка фильтрации товаров по чекбоксу «В наличии»
   status: fail
 
-- summary: 
+- summary: |
     Проверка фильтрации товаров по цене
   status: fail
 
-- summary: 
+- summary: |
     Проверка фильтрации товаров по цене с использованием кнопки увеличения значения
   status: fail
 
-- summary: 
+- summary: |
     Проверка товаров по категориям
   status: pass
