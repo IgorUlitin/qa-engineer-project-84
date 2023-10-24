@@ -3,7 +3,7 @@
     Проверка регистрации пользователя
   requirement: |
     Успешная регистрация пользователя
-  prerequisites:|
+  prerequisites: |
     Открыта страница регистрации
   test-data: |
     empty
