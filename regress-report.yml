@@ -114,7 +114,7 @@ test-cases:
 
 - summary: |
     Проверка верстки при поиске товаров по наименованию
-  status: pass
+  status: fail
 
 bugreports:
   - summary: |
