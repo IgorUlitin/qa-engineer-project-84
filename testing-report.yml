@@ -96,11 +96,11 @@
   status: fail
 
 - summary: |
-    Проверка отображения сайта в разных браузерах (Google Chrome, Safari, Firefox)
+    Проверка отображения приложения в разных браузерах (Google Chrome, Safari, Firefox)
   status: pass
 
 - summary: |
-    Проверка отображения сайта на мобильных устройствах
+    Проверка отображения приложения на мобильных устройствах
   status: fail
 
 - summary: |
